@@ -172,7 +172,7 @@ export default defineComponent({
                         data={jsonText.value}
                     >
                     </vue-json-pretty>
-                </section >
+                </section>
             )
         }
     },
