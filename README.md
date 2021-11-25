@@ -15,7 +15,7 @@ npm run serve
 npm run build
 ```
 
-### reference
+### Reference
 
 https://github.com/xrr2016/vue-json-editor
 
