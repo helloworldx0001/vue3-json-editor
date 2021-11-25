@@ -17,7 +17,10 @@ npm run build
 
 ### Reference
 
+```js
 https://github.com/xrr2016/vue-json-editor
+```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Show
+
+![show.png](https://github.com/helloworldx0001/vue3-json-editor/blob/master/demo/show.png)
