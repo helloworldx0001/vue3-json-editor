@@ -15,10 +15,9 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-# reference
+### reference
 
 https://github.com/xrr2016/vue-json-editor
 
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
